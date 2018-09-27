@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "jest-transform-ignore-patterns",
+    "libraryId": "c7e50e9a-54ba-49d7-9222-d0a954a909cc",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

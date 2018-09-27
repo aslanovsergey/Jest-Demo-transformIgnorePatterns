@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jest-transform-ignore-patterns-client-side-solution",
+    "id": "c7e50e9a-54ba-49d7-9222-d0a954a909cc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/jest-transform-ignore-patterns.sppkg"
+  }
+}
